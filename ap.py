@@ -123,5 +123,5 @@ def main():
     
     
     
-if_name_ == '_main_':
+if _name_ == '_main_':
     main()
