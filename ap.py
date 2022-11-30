@@ -84,7 +84,7 @@ def main():
                
         
          
-         if st.button('Detect the object'):      
+      if st.button('Detect the object'):      
                 # Start the video prediction loop
                 while cap.isOpened():
                     ret, frame = cap.read()
