@@ -6,7 +6,7 @@ import streamlit as st
 from collections import deque
 import os
 import subprocess
-import tensorflow as tf 
+#import tensorflow as tf 
 import sys 
 
 #Loading the Inception model
