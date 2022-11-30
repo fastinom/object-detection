@@ -10,7 +10,7 @@ import subprocess
 import sys 
 
 #Loading the Inception model
-model= load_model('https://github.com/fastinom/object-detection/blob/main/saved_model.pb',compile=(False))
+model= load_model('/.model.hd',compile=(False))
 st.markdown('<style>body{background-color:Blue;}</style>',unsafe_allow_html=True)
 
 
