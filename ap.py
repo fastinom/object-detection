@@ -11,7 +11,7 @@ import sys
 
 #Loading the Inception model
 model = load_model('model.hd'
-#st.markdown('<style>body{background-color:Blue;}</style>',unsafe_allow_html=True)
+st.markdown('<style>body{background-color:Blue;}</style>',unsafe_allow_html=True)
 
 
 #Functions
