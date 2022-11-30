@@ -104,7 +104,7 @@ def main():
     key = st.text_input('Search key')
     key = key.lower()
             
-            if key is not None:
+    if key is not None:
             
                 if st.button("Search for an object"):
                     
