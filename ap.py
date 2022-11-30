@@ -10,7 +10,7 @@ import subprocess
 import sys 
 
 #Loading the Inception model
-load_model('model.hd')
+#load_model('model.hd')
 st.markdown('<style>body{background-color:Blue;}</style>',unsafe_allow_html=True)
 
 
