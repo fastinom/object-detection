@@ -1,8 +1,8 @@
 # -- coding: utf-8 --
 import numpy as np
 import streamlit as st
-#from tensorflow.keras.models import load_model
-#import cv2
+from tensorflow.keras.models import load_model
+import cv2
 from collections import deque
 import os
 import subprocess
